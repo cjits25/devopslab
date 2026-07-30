@@ -1,0 +1,90 @@
+/* Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Form Container */
+form {
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Heading */
+h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    color: #444;
+}
+
+/* Input Fields */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+/* Radio Buttons */
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+/* Buttons */
+input[type="submit"],
+input[type="reset"] {
+    width: 48%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+
+/* Register Button */
+input[type="submit"] {
+    background-color: #28a745;
+}
+
+/* Register Button Hover */
+input[type="submit"]:hover {
+    background-color: #218838;
+}
+
+/* Clear Button */
+input[type="reset"] {
+    background-color: #dc3545;
+    float: right;
+}
+
+/* Clear Button Hover */
+input[type="reset"]:hover {
+    background-color: #c82333;
+}
+
+/* Textarea */
+textarea {
+    resize: vertical;
+}
