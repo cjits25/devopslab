@@ -1,0 +1,10 @@
+[
+    {
+        "username": "Suresh",
+        "password": "scrypt:32768:8:1$cBNfOtKBlzZwjEnD$87d786aadb1edb4c5cb7307cd6c3aeb8316f6375e28851d5cdb8d530086b34921679db98c2a66b75f75726d91249a8210af0d531bd90fad387d2b2596789055a",
+        "branch": "CSE",
+        "year": "4",
+        "semester": "1",
+        "email": "suresh@gmail.com"
+    }
+]
